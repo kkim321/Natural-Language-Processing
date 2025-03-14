@@ -1,0 +1,186 @@
+hello, annyeong
+goodbye, annyeonghi gaseyo
+thank you, gamsahamnida
+please, jebal
+sorry, joesonghamnida
+excuse me, sillyehamnida
+yes, ne
+no, aniyo
+I, na
+you, neo
+he, geu
+she, geunyeo
+we, uri
+they, geudeul
+this, igeot
+that, geugeot
+these, igeodeul
+those, geugeodeul
+who, nugu
+what, mwo
+where, eodi
+when, eonje
+why, wae
+how, eotteoke
+am, nan
+is, neun
+are, neun
+was, i-eossda
+were, i-eossda
+be, doeda
+being, doeneun jung
+been, doeeossda
+do, hada
+does, haneun
+did, haessda
+have, gajigo itda
+has, gajigo itda
+had, gajigo isseossda
+can, hal su itda
+could, hal su isseossda
+will, hal geosida
+would, hal geosida
+shall, hal geosida
+should, haeya handa
+may, hal su itda
+might, hal su isseossda
+must, haeya handa
+going, gago itda
+go, gada
+went, gassda
+gone, gassda
+come, oda
+came, wasseul
+coming, ogo itda
+say, malhada
+said, malhaessda
+saying, malhago itda
+book, chaek
+car, cha
+house, jip
+school, hakgyo
+student, haksaeng
+teacher, seonsaengnim
+computer, kompyuteo
+phone, jeonhwa
+city, dosi
+country, nara
+friend, chingu
+family, gajok
+mother, eomeoni
+father, abeoji
+sibling, hyeongje
+food, eumshik
+water, mul
+coffee, keopi
+money, don
+job, il
+market, sijang
+doctor, uisa
+hospital, byeongwon
+airport, gonghang
+bus, beoseu
+train, gicha
+plane, bihaenggi
+music, eumak
+movie, yeonghwa
+game, geim
+song, norae
+room, bang
+bed, chimdae
+clothes, ot
+weather, nalssi
+go, gada
+come, oda
+eat, meokda
+drink, masida
+see, boda
+hear, deutda
+speak, malhada
+read, ilkda
+write, sseuda
+run, dallyeoda
+walk, geotda
+sleep, jamjada
+wake up, ireonada
+study, gongbu hada
+teach, gareuchida
+buy, sada
+sell, pada
+work, ilha da
+play, nolda
+help, dowajuda
+wait, gidarida
+think, saenggak hada
+love, sarang hada
+like, joahada
+hate, silhda
+open, yeolda
+close, datda
+learn, baeuda
+need, pil-yohada
+want, wonhada
+big, keuda
+small, jagda
+fast, ppalli
+slow, neujeun
+hot, ddeugeoun
+cold, chagaun
+happy, haengbokhan
+sad, seulpeu
+beautiful, areumdaun
+ugly, mossaenggin
+easy, swipda
+difficult, eoryeopda
+new, saeloun
+old, oraedoen
+cheap, ssan
+expensive, bissan
+good, joheun
+bad, nappeun
+tired, pigonhan
+strong, ganghan
+weak, yakhan
+bright, balgan
+dark, eoduun
+clean, kkaekkeutan
+dirty, deoreoun
+very, aju
+a little, jogeum
+quickly, ppalli
+slowly, cheoncheonhi
+well, jal
+badly, nappeuge
+often, jaju
+sometimes, gakkeum
+never, jeoldae
+always, hangsang
+now, jigeum
+then, geuttae
+yesterday, eoje
+today, oneul
+tomorrow, naeil
+already, imi
+together, hamkke
+alone, honja
+early, iljjik
+late, neujeo
+in, an
+on, wi
+under, arae
+between, sa-i
+next to, yeope
+behind, dwi
+in front of, ap
+with, hamkke
+without, eopsi
+about, daehan
+before, jeon
+after, ihu
+and, geurigo
+but, hajiman
+because, waehago
+so, geuraeseo
+or, ttoneun
+if, jika
+although, haji man
